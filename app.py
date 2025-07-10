@@ -4,6 +4,8 @@ import numpy as np
 import joblib
 from sklearn.metrics import classification_report, confusion_matrix
 from imblearn.pipeline import Pipeline
+from imblearn.over_sampling import SMOTE
+from sklearn.svm import SVC
 import seaborn as sns
 import matplotlib.pyplot as plt
 import io
