@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import joblib
 from sklearn.metrics import classification_report, confusion_matrix
+from imblearn.pipeline import Pipeline
 import seaborn as sns
 import matplotlib.pyplot as plt
 import io
