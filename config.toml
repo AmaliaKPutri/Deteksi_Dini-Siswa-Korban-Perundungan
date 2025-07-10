@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#4C80E6"  # Biru Soft
+backgroundColor = "#181C14"  # hitam
+secondaryBackgroundColor = "#222831"  # Biru gelap untuk latar belakang sekunder
+textColor = "#ffffff"  # Teks berwarna putih agar mudah dibaca
